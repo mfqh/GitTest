@@ -3,3 +3,5 @@ Welcome to my file:
 This is a file which be used for test!!!
 
 The first change
+
+The feature_other
